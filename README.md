@@ -1,5 +1,4 @@
-# Digital-Project-Manager
-<!DOCTYPE html>
+
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -467,7 +466,7 @@
     <!-- 底部 -->
     <div class="footer">
         <h4>THANKS</h4>
-        <p class="mb-0">感谢聆听</p>
+        <p class="mb-0">微信/电话：15875772637</p>
         <p class="mt-2">期待与您深入交流 · 携手共创未来</p>
     </div>
 
